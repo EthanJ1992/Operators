@@ -1,0 +1,15 @@
+C:\Users\samia\OneDrive\Desktop\repo\operators\bin\Debug\net6.0\operators.exe
+C:\Users\samia\OneDrive\Desktop\repo\operators\bin\Debug\net6.0\operators.deps.json
+C:\Users\samia\OneDrive\Desktop\repo\operators\bin\Debug\net6.0\operators.runtimeconfig.json
+C:\Users\samia\OneDrive\Desktop\repo\operators\bin\Debug\net6.0\operators.dll
+C:\Users\samia\OneDrive\Desktop\repo\operators\bin\Debug\net6.0\operators.pdb
+C:\Users\samia\OneDrive\Desktop\repo\operators\obj\Debug\net6.0\operators.csproj.AssemblyReference.cache
+C:\Users\samia\OneDrive\Desktop\repo\operators\obj\Debug\net6.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samia\OneDrive\Desktop\repo\operators\obj\Debug\net6.0\operators.AssemblyInfoInputs.cache
+C:\Users\samia\OneDrive\Desktop\repo\operators\obj\Debug\net6.0\operators.AssemblyInfo.cs
+C:\Users\samia\OneDrive\Desktop\repo\operators\obj\Debug\net6.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\samia\OneDrive\Desktop\repo\operators\obj\Debug\net6.0\operators.dll
+C:\Users\samia\OneDrive\Desktop\repo\operators\obj\Debug\net6.0\refint\operators.dll
+C:\Users\samia\OneDrive\Desktop\repo\operators\obj\Debug\net6.0\operators.pdb
+C:\Users\samia\OneDrive\Desktop\repo\operators\obj\Debug\net6.0\operators.genruntimeconfig.cache
+C:\Users\samia\OneDrive\Desktop\repo\operators\obj\Debug\net6.0\ref\operators.dll
